@@ -5,6 +5,8 @@ its 2D so basic (W, A, D, SPACE) controls.
 
 
 
+GAMEPLAY / SYSTEM SHOWCASE BELOW
+
 Jumping / Walljumping
 
 ![Adobe Express - Jump](https://github.com/user-attachments/assets/3bdc141a-617e-4aca-a7d3-96fc2e06067c)
