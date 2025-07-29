@@ -1,2 +1,5 @@
-# Mini-Platformer
-Small 2D platformer project I wanna work on for a bit.
+# INFO
+Small project, the "updates" are more patches than updates
+
+its 2D so basic (W, A, D, SPACE) controls.
+
